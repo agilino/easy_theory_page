@@ -1527,7 +1527,6 @@
 		}
 
 		p {
-			letter-spacing: _size(letter-spacing-alt);
 
 			a {
 				color: inherit;
@@ -1606,6 +1605,7 @@
 
     #banner div img.logo {
         max-height: 56px;
+        margin-left: 5px;
         float: left;
     }
 
