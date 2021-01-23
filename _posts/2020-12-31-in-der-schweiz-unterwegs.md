@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Photos wie in der Prüfungssituation.
-description: Wir haben viele Photos an verschiedenen Orten der Schweiz gemacht.
+description: Wir haben viele Photos von Verkehrssituationen an verschiedenen Orten der Schweiz für dich gemacht.
 image: jens_herrndorf_schweiz_berge_strasse.jpg
 ---
 

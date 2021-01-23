@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Launch neue Webseite
-description: Wir freuen uns dich auf unserer neuen Webseite begrüssen.
+description: Wir freuen uns dich auf unserer neuen Webseite begrüssen zu dürfen.
 image: lex-valishvili-strasse-unsplash.jpg
 ---
 
