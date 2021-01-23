@@ -5,4 +5,4 @@ description: Wir freuen uns dich auf unserer neuen Webseite begrüssen zu dürfe
 image: lex-valishvili-strasse-unsplash.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Wir sind sehr froh dir die neue EasyTheory Webseite zu präsentieren. Hier findest Du die Links auf unsere App im iOS Appstore und Google Play. Wir werden hier Screenshots der App veröffentlichen, um dir die Kaufentscheidung zu erleichtern. Ausserdem findest du hier unsere Datenschutzbestimmungen und nicht zuletzt hilfreiche Links rund um die Theorieprüfung und das Autofahren.

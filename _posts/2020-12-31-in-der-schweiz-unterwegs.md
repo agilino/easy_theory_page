@@ -5,4 +5,4 @@ description: Wir haben viele Photos von Verkehrssituationen an verschiedenen Ort
 image: jens_herrndorf_schweiz_berge_strasse.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Wir sind mehrere Monate durch die Schweiz getourt und haben Photos von Verkehrssituationen wie bei der echten Prüfung gemacht. Gelegentlich war es besser eine Animation zu erzeugen, damit du dich besser auf bestimmte Sachverhalte konzentrieren kannst. Bei der echten Theorieprüfung gibt es auch eine Auswahl an Animationen und echten Verkehrsphotos.
