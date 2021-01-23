@@ -1,39 +1,47 @@
 <!-- Footer -->
-<section id="footer">
-  <div class="inner">
-    <h2 class="major">Get in touch</h2>
-    <p>Cras mattis ante fermentum, malesuada neque vitae, eleifend erat. Phasellus non pulvinar erat. Fusce tincidunt, nisl eget mattis egestas, purus ipsum consequat orci, sit amet lobortis lorem lacus in tellus. Sed ac elementum arcu. Quisque placerat auctor laoreet.</p>
-    <form method="post" action="#">
-      <div class="field">
-        <label for="name">Name</label>
-        <input type="text" name="name" id="name" />
-      </div>
-      <div class="field">
-        <label for="email">Email</label>
-        <input type="email" name="email" id="email" />
-      </div>
-      <div class="field">
-        <label for="message">Message</label>
-        <textarea name="message" id="message" rows="4"></textarea>
-      </div>
-      <ul class="actions">
-        <li><input type="submit" value="Send Message" /></li>
-      </ul>
-    </form>
-    <ul class="contact">
-      <li class="fa-home">
-        Untitled Inc<br />
-        1234 Somewhere Road Suite #2894<br />
-        Nashville, TN 00000-0000
-      </li>
-      <li class="fa-phone">(000) 000-0000</li>
-      <li class="fa-envelope"><a href="#">information@untitled.tld</a></li>
-      <li class="fa-twitter"><a href="#">twitter.com/untitled-tld</a></li>
-      <li class="fa-facebook"><a href="#">facebook.com/untitled-tld</a></li>
-      <li class="fa-instagram"><a href="#">instagram.com/untitled-tld</a></li>
-    </ul>
-    <ul class="copyright">
-      <li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
-    </ul>
-  </div>
-</section>
+<footer id="footer">
+	<ul class="icons">
+		{% if site.twitter_url %}
+		<li><a href="{{ site.twitter_url }}" class="icon fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+		{% endif %} {% if site.googleplus_url %}
+		<li><a href="{{ site.googleplus_url }}" class="icon fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
+		{% endif %} {% if site.facebook_url %}
+		<li><a href="{{ site.facebook_url }}" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+		{% endif %} {% if site.instagram_url %}
+		<li><a href="{{ site.instagram_url }}" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+		{% endif %} {% if site.pinterest_url %}
+		<li><a href="{{ site.pinterest_url }}" class="icon fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+		{% endif %} {% if site.500px_url %}
+		<li><a href="{{ site.500px_url }}" class="icon fa-500px" target="_blank"><span class="label">500px</span></a></li>
+		{% endif %} {% if site.gitlab_url %}
+		<li><a href="{{ site.gitlab_url }}" class="icon fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
+		{% endif %} {% if site.github_url %}
+		<li><a href="{{ site.github_url }}" class="icon fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+		{% endif %} {% if site.slack_url %}
+		<li><a href="{{ site.slack_url }}" class="icon fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+		{% endif %} {% if site.linkedin_url %}
+		<li><a href="{{ site.linkedin_url }}" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+		{% endif %}
+	</ul>
+	<ul class="copyright">
+		<li>&copy; {{ site.title }}</li>
+		<li>Design: <a href="http://html5up.net" target="_blank">HTML5 UP</a>.</li>
+		<li>Demo Images: <a href="https://unsplash.com/" target="_blank">Unsplash</a>.</li>
+		<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a>.</li>
+	</ul>
+</footer>
+
+</div>
+
+<!-- Scripts -->
+<script src="{{ "/assets/js/jquery.min.js" | absolute_url }}"></script>
+<script src="{{ "/assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
+<script src="{{ "/assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
+<script src="{{ "/assets/js/skel.min.js" | absolute_url }}"></script>
+<script src="{{ "/assets/js/util.js" | absolute_url }}"></script>
+<!--[if lte IE 8]><script src="{{ "/assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
+<script src="{{ "/assets/js/main.js" | absolute_url }}"></script>
+
+</body>
+
+</html>

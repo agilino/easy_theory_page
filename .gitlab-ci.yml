@@ -5,10 +5,10 @@ pages:
   script:
   - gem install jekyll
   - jekyll build -d public
-  - gem build solid_state_jekyll_theme.gemspec
+  - gem build spectral_jekyll_theme.gemspec
   artifacts:
     paths:
     - public
-    - "solid_state_jekyll_theme-*.gem"
+    - "spectral_jekyll_theme-*.gem"
   only:
   - master
