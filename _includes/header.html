@@ -1,27 +1,11 @@
-<div id="page-wrapper">
-
 <!-- Header -->
-<header id="header" {% if page.url == "/index.html" %} class="alt"{% endif %}>
-	<h1><a href="index.html">Alpha</a> by HTML5 UP</h1>
-	{% include menu.html %}
-</header>
-
-{% if page.layout == "default" %}
-<!-- Banner -->
-<section id="banner">
-	<h2>{{ site.title }}</h2>
-	<p>{{ site.description }}</p>
-	<ul class="actions">
-		<li><a href="#" class="button special">Sign Up</a></li>
-		<li><a href="#" class="button">Learn More</a></li>
-	</ul>
-</section>
+{% if page.layout == 'home' %}
+<header id="header" class="alt">
 {% else %}
-<!-- Main -->
-<section id="main" class="container">
-	<header>
-		<h2>{{ page.title }}</h2>
-		<p>{{ page.description }}</p>
-	</header>
+<header id="header">
 {% endif %}
-<div class="box">
+  <h1><a href="/index.html">{{ site.title }}</a></h1>
+  <nav>
+    <a href="#menu">Menu</a>
+  </nav>
+</header>
