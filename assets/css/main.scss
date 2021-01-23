@@ -1627,10 +1627,7 @@
     #banner div.outer-caption {
         margin: 0 auto;
         display: inline-block;
-        min-width: 600px;
-        @include breakpoint(small) {
-            min-width: 100%;
-        }
+        max-width: 520px;
     }
 
     #banner div.outer-downloads {
