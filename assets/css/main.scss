@@ -1508,32 +1508,12 @@
 			@include vendor('transform', 'scale(1)');
 			@include vendor('transition', ('transform 0.5s ease', 'opacity 0.5s ease'));
 			display: inline-block;
-			font-size: 1.75em;
+            font-size: 2.25em;
+            font-weight: 400;
 			opacity: 1;
 			padding: 0.35em 1em;
 			position: relative;
 			z-index: 1;
-
-			&:before, &:after {
-				@include vendor('transition', 'width 0.85s ease');
-				@include vendor('transition-delay', '0.25s');
-				background: _palette(fg-bold);
-				content: '';
-				display: block;
-				height: 2px;
-				position: absolute;
-				width: 100%;
-			}
-
-			&:before {
-				top: 0;
-				left: 0;
-			}
-
-			&:after {
-				bottom: 0;
-				right: 0;
-			}
 		}
 
 		p {
@@ -1600,7 +1580,7 @@
 			min-height: 0;
 
 			h2 {
-				font-size: 1.25em;
+				font-size: 1.75em;
 			}
 
 			br {
@@ -1614,8 +1594,8 @@
     }
 
     #banner div img.logo {
-        max-height: 56px;
-        margin-left: 5px;
+        max-height: 72px;
+        padding-right: 10px;
         float: left;
     }
 
@@ -1761,7 +1741,7 @@
 			text-align: center;
 
 			h2 {
-				font-size: 1.75em;
+                font-size: 1.75em;
 				margin: 0 0 (_size(element-margin) * 0.25) 0;
 			}
 
@@ -1862,7 +1842,11 @@
 					margin: 0;
 					padding: 0.5em 0;
 				}
-			}
+            }
+            li.small {
+                font-size: 0.8em;
+            }
+                
 		}
 
 		@include breakpoint(medium) {

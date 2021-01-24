@@ -4,6 +4,8 @@ title: Kontakt
 description: Kontaktformular easytheory
 ---
 
+Hast du Anmerkungen, Fragen, Lob oder Kritik an der easytheory App? Oder hast du einen inhaltlichen Fehler bei den Theoriefragen gefunden? Nutze einfach das unten stehende Formular um uns zu erreichen.
+
  <form id="contactForm" method="POST" action="" enctype="multipart/form-data">
       <div class="row">
         <div class="col-25">
