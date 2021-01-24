@@ -80,7 +80,7 @@ $("#contactForm").validate({
     });
     $.ajax({
       type: "POST",
-      url: "https://just-code.cloud/72f616501a4b3de0d3e11063508e6a01810ce68a6fb47da33cd6c1e1a6535576/accept.php",
+      url: "https://just-code.cloud/e6e77dc207f2d70ed262c0c362acb7f75a65900f/accept.php",
       data: formData,
       contentType: false,
       processData: false,
