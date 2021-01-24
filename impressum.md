@@ -6,7 +6,7 @@ description: Impressum Webseite und easytheory App
 
 ## Datenschutzhinweis Website
 
-Beim Besuchen der Webseite wird die IP Adresse des Besuchers geloggt. Diese Information wird nicht weiter ausgewertet. Der Betreiber der Webseite speichert keine Cookies. Telemetrische Daten werden weder ausgewertet noch an Drittanbieter weitergeleitet. 
+Beim Besuchen der Webseite wird die IP Adresse des Besuchers geloggt. Diese Information wird nicht weiter ausgewertet. Der Autor der Webseite speichert keine Cookies. Telemetrische Daten werden weder ausgewertet noch an Drittanbieter weitergeleitet. 
 
 Auf der Webseite befindet sich ein Kontaktformular. Die dort übermittelten Daten werden zwecks Beantwortung der Anfrage verarbeitet und anschliessend wieder gelöscht.
 
