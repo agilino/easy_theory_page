@@ -10,11 +10,21 @@
           <a href="#menu" class="menuToggle"><span>Menu</span></a>
           <div id="menu">
             <ul>
-              {% for page in site.pages %} {% if page.layout == "default" %}
+              {% for page in site.pages %}
+              {% if page.layout == "default" %}
               <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-              {% endif %} {% endfor %} {% for page in site.pages %} {% if page.layout == "page" %}
+              {% endif %}
+              {% endfor %}
+              {% for page in site.pages %}
+              {% if page.layout == "contact_page" %}
               <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
-              {% endif %} {% endfor %}
+              {% endif %}
+              {% endfor %}
+              {% for page in site.pages %}
+              {% if page.layout == "page" %}
+              <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+              {% endif %}
+              {% endfor %}
             </ul>
           </div>
         </li>

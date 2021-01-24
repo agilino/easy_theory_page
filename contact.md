@@ -53,6 +53,5 @@ description: Kontaktformular easytheory
       <div class="row">
         <input value="Nachricht senden" type="submit">
       </div>
-      </div>
     </form>
     
