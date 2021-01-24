@@ -37,7 +37,26 @@
 
             {{ content }}
 
-          </div>
+            <div class="thank-you hidden">
+              <div>
+                <img src="img/photo-1529590089538-86ace5ee4666.jpeg" alt="Thank you">
+              </div>
+              <div class="thank-you--message">
+                <h2>Wir wollten kurz Danke sagen</h2>
+                <span>und melden uns bei dir in Kürze</span>
+              </div>
+            </div>
+            <div class="sending-error hidden">
+              <div>
+                <h2>Ein Fehler beim Nachrichtsenden</h2>
+                <span>Sende uns eine Email in dem du</span>
+                <a class="email" href="#">auf folgenden Link klickst.</a>
+              </div>
+            </div>
+            <div class="spinner hidden">
+              <div class="lds-dual-ring"></div>
+            </div>
+            <script src="{{ "/assets/js/contact.js" | absolute_url }}"></script>
         </section>
     </article>
 
