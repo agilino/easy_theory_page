@@ -14,9 +14,7 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
     <!--[if lte IE 8]><link rel="stylesheet" href="{{ "/assets/css/ie8.css" | relative_url }}" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="{{ "/assets/css/ie9.css" | relative_url }}" /><![endif]-->
-    <script src="{{ "/assets/js/jquery.validate.min.js" | absolute_url }}"></script>
-    <script src="{{ "/assets/js/additional-methods.min.js" | absolute_url }}"></script>
-    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
     <link rel="stylesheet" type="text/css" href="{{ "/assets/css/spinner.css" | relative_url }}">
     <link rel="stylesheet" type="text/css" href="{{ "/assets/css/simple.css" | relative_url }}">
   </head>
@@ -39,16 +37,18 @@
 
             <div class="thank-you hidden">
               <div>
-                <img src="img/photo-1529590089538-86ace5ee4666.jpeg" alt="Thank you">
+                <img src="assets/images/stiijn_te_strake_beach_sunset.jpg" alt="Thank you from sunset beach">
               </div>
               <div class="thank-you--message">
                 <h2>Wir wollten kurz Danke sagen</h2>
                 <span>und melden uns bei dir in Kürze</span>
               </div>
+              <div class="thank-you--overlay">
+              </div>
             </div>
             <div class="sending-error hidden">
               <div>
-                <h2>Ein Fehler beim Nachrichtsenden</h2>
+                <h2>Es gab einen Fehler beim Senden Deiner Nachricht</h2>
                 <span>Sende uns eine Email in dem du</span>
                 <a class="email" href="#">auf folgenden Link klickst.</a>
               </div>
@@ -62,6 +62,9 @@
     </article>
 
     {% include footer.html %}
+    <script src="{{ "/assets/js/jquery.validate.min.js" | absolute_url }}"></script>
+    <script src="{{ "/assets/js/additional-methods.min.js" | absolute_url }}"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
     <script src="{{ "/assets/js/contact.js" | absolute_url }}"></script>
   </body>
 

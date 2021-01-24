@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Datenschutzerklärung App
+title: Datenschutz App
 description: Datenschutzerklärung und Haftungsausschluss easytheory App.
 ---
 Der App Anbieter
@@ -18,4 +18,4 @@ Trotz grosser sorgfalt beim erstellen der Lerninhalte und Programmieren der App,
 * [Verkehrsregelnverordnung](https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/de)
 * [Signalisationsverordnung](https://www.fedlex.admin.ch/eli/cc/1979/1961_1961_1961/de)
 
-Jegliche Fehler in unserer App bedauern wir, und bitten die Benutzer uns diese zu melden. Für das nichtbestehen der Theorieprüfung oder weiteren Schaden, der sich durch das Befolgen der Hinweise von unser App entstehen können wir keine Haftung übernehmen.
+Jegliche Fehler in unserer App bedauern wir, und bitten die Benutzer uns diese zu melden. Für das nichtbestehen der Theorieprüfung oder weiteren Schaden, der sich durch das Befolgen der Hinweise unser App entsteht, können wir keine Haftung übernehmen.

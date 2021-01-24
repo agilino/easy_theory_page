@@ -14,18 +14,18 @@ $.validator.addMethod('fileSize', function (value, element, sizeLimit) {
     }
   });
   return result;
-}, 'Any file needs to be less than {0}MB');
+}, 'Jede Datei muss unter {0}MB sein');
 // limit number of files
 $.validator.addMethod("fileCount", function (value, element, fileCount) {
   return this.optional(element) || (element.files.length <= fileCount)
-}, "Only {0} files can be uploaded.");
+}, "Es können nur {0} Dateien hochgeladen werden.");
 // specify message for validating email, phone
 $.validator.addMethod("phoneCheck", function (phone_number, element) {
   phone_number = phone_number.replace(/\s+/g, "");
   return this.optional(element) || phone_number.match(/^(\+)?[0-9]{8,}$/);
-}, "Please specify a valid phone number");
+}, "Gib bitte eine gültige Telefonnummer an.");
 //
-emailOrPhone = "Email or phone is required.";
+emailOrPhone = "Benötige Email oder Telefon um Dich zu erreichen.";
 // send json form
 $("#contactForm").validate({
   ignore: ".ignore",
@@ -67,7 +67,7 @@ $("#contactForm").validate({
     // provide the fallback mail to use, when backend is not available
     // the string should be encoded, to prevent most spam bots parsing javascript
     const fallbackEmailEncode = 'YWRhbUBmdXJtYW5jenVrLmV1';
-    const fallbackSubject = escape('I like to use simple mail frontend');
+    const fallbackSubject = escape('Easy Theory Feedback');
 
     const formEl = $("#contactForm")
     const formJson = getFormData(formEl);
