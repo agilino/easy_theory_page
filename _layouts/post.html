@@ -18,8 +18,8 @@
         style="background-image: url('{% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ page.image }}{% endif %}');"
         {% endif %}>
         <div>
-          <h2>{{ page.title }}</h2>
-          <p>{{ page.description }}</p>
+          <h2 class="light">{{ page.title }}</h2>
+          <p class="light">{{ page.description }}</p>
         </div>
         </header>
         <section class="wrapper style5">

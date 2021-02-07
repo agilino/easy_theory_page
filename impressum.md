@@ -10,6 +10,17 @@ Beim Besuchen der Webseite wird die IP Adresse des Besuchers geloggt. Diese Info
 
 Auf der Webseite befindet sich ein Kontaktformular. Die dort übermittelten Daten werden zwecks Beantwortung der Anfrage verarbeitet und anschliessend wieder gelöscht.
 
+### Rechte als Betroffener
+
+Jeder Betroffene hat nach der europäischen Datenschutzgrundverordnung (DSGVO) das Recht
+
+* auf Auskunft nach Artikel 15 DSGVO
+* das Recht auf Berichtigung nach Artikel 16 DSGVO
+* das Recht auf Löschung nach Artikel 17 DSGVO
+* das Recht auf Einschränkung der Verarbeitung nach Artikel 18 DSGVO
+* das Recht auf Widerspruch aus Artikel 21 DSGVO 
+* das Recht auf Datenübertragbarkeit aus Artikel 20 DSGVO
+
 ## Impressum
 
 Verantwortlich für den Inhalt dieser Webseite und den Inhalt der easytheory App ist

@@ -1,42 +1,26 @@
-<!-- Three -->
-<section id="three" class="wrapper style3 special">
-  <div class="inner">
-    <header class="major">
-      <h2>Lerne mit EasyTheory einfach für die Theorieprüfung</h2>
+<section id="two" class="wrapper alt style2">
 
-      <p>EasyTheory wird Dich einfach und intuitiv optimal mit über 300 prüfungsähnlichen Fragen für die Theorieprüfung
-        vorbereiten. </p>
-    </header>
-    <ul class="features">
-      <li class="icon fa-paper-plane-o">
-        <h3>Prüfungssimulation</h3>
-        <p>Bereite dich für die Prüfung vor, indem du sie auf der App simulierst. Wie bei deiner echten Prüfung, werden
-          dir 50 Fragen gestellt, welche du in 45 Minuten beantworten musst.</p>
-      </li>
-      <li class="icon fa-laptop">
-        <h3>Bilder mit hoher Qualität</h3>
-        <p>Wie bei den offiziellen Prüfungsfragen, werden dir die Fragen mit echten Fotos, 3D Renderings und
-          Pictogrammen gestellt.</p>
-      </li>
-      <li class="icon fa-code">
-        <h3>Fragen werden erklärt</h3>
-        <p>Alle Fragen werden ausführlich erklärt. Zudem werden dir weiterführende Links zu Gesetzestexten oder anderen
-          interessanten Webseiten angezeigt.</p>
-      </li>
-      <li class="icon fa-headphones">
-        <h3>Multiplattform</h3>
-        <p>Die EasyTheory App ist auf iOS und Android Smartphones und Tablets verfügbar.</p>
-      </li>
-      <li class="icon fa-heart-o">
-        <h3>Offline</h3>
-        <p>Nach dem Download funktioniert die App offline und benötigt keine weitere Internetverbindung. Internet
-          brauchst du nur falls du weiterführende Links öffnen möchtest.</p>
-      </li>
-      <li class="icon fa-flag-o">
-        <h3>Prüfungähnliche Fragen</h3>
-        <p>Um EasyTheory so günstig anbieten zu können, verwenden wir keine offiziellen Prüfungsfragen. Unsere Fragen
-          beziehen sich jedoch auf ähnliche Verkehrssituationen.</p>
-      </li>
-    </ul>
-  </div>
+	{% for post in site.posts limit:site.tiles-count %}{% if site.tiles-source == 'posts' %}
+
+	<section class="spotlight">
+		<div class="image">{% if post.image %}<img src="{% if site.featured-image-source %}{{ post.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ post.image }}{% endif %}" alt="" />{% endif %}</div>
+		<div class="content">
+			<h2><a href="{{ post.url | relative_url }}" class="link">{{ post.title }}</a></h2>
+			<p>{{ post.description }}</p>
+		</div>
+	</section>
+
+	{% endif %}{% endfor %}
+	{% for page in site.pages limit:site.tiles-count %}{% if site.tiles-source == 'pages' %}{% if page.layout == 'default' %}{% continue %}{% endif %}
+
+	<section class="spotlight">
+		<div class="image">{% if page.image %}<img src="{% if site.featured-image-source %}{{ page.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ page.image }}{% endif %}" alt="" />{% endif %}</div>
+		<div class="content">
+			<h2><a href="{{ page.url | relative_url }}" class="link">{{ page.title }}</a></h2>
+			<p>{{ page.description }}</p>
+		</div>
+	</section>
+
+	{% endif %}{% endfor %}
+
 </section>

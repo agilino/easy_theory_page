@@ -1,10 +1,10 @@
 ---
 layout: contact_page
 title: Kontakt
-description: Kontaktformular easytheory
+description: Kontaktformular EasyTheory
 ---
 
-Hast du Anmerkungen, Fragen, Lob oder Kritik an der easytheory App? Oder hast du einen inhaltlichen Fehler bei den Theoriefragen gefunden? Nutze einfach das unten stehende Formular um uns zu erreichen.
+Hast du Anmerkungen, Fragen, Lob oder Kritik an der EasyTheory App? Oder hast du einen inhaltlichen Fehler bei den Theoriefragen gefunden? Nutze einfach das unten stehende Formular um uns zu erreichen.
 
  <form id="contactForm" method="POST" action="" enctype="multipart/form-data">
       <div class="row">

@@ -85,26 +85,6 @@
 		}
 	}
 
-/* CTA */
-
-	#cta {
-		.inner {
-			header {
-				float: left;
-			}
-
-			.actions {
-				float: left;
-			}
-
-			&:after {
-				clear: both;
-				content: '';
-				display: block;
-			}
-		}
-	}
-
 /* Main */
 
 	#main {

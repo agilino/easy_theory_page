@@ -3,11 +3,11 @@
 
   <!-- Header -->
   <header id="header" {% if page.layout == 'default' %} class="alt" {% endif %}>
-    <h1><a href="{{ "" | absolute_url }}/">Easy Theory</a></h1>
+    <h1><a href="{{ "" | absolute_url }}/"><span class="accent">Easy</span><span class="primary">Theory</span></a></h1>
     <nav id="nav">
       <ul>
         <li class="special">
-          <a href="#menu" class="menuToggle"><span>Menu</span></a>
+          <a href="#menu" class="menuToggle"><span class="accent">Menu</span></a>
           <div id="menu">
             <ul>
               {% for page in site.pages %}
