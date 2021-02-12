@@ -10,7 +10,7 @@ plugins:
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 3
+tiles-count: 4
 
 # Misc settings
 featured-image-source:
