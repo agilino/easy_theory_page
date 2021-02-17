@@ -4,7 +4,7 @@ A Jekyll version of the "Spectral" theme by [HTML5 UP](https://html5up.net/).
 
 # Credits
 
-Theme by HTML5UP. Ported to jekyll by [Andrew Banchich](https://gitlab.com/andrewbanchich/spectral-jekyll-theme)
+Theme by HTML5UP. Ported to jekyll by [Andrew Banchich](https://github.com/andrewbanchich/spectral-jekyll-theme)
 
 Original README from HTML5 UP:
 
