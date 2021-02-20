@@ -2,6 +2,8 @@
 layout: post
 title: Heute schon geübt?
 description: Regelmässiges Üben hilft dir optimal auf die Prüfung vorzubereiten.
+meta_title: Heute schon Autotheorie gelernt?
+meta_description: Übe mit unserer Führerschein App EasyTheory jeden Tag ein bisschen.
 image: blog_pic_02.jpg
 ---
 

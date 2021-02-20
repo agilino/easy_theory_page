@@ -2,6 +2,8 @@
 layout: post
 title: Neue Verkehrsregeln 2021
 description: Seit Anfang Januar 2021 haben sich einige Verkehrsregeln verändert, so darfst zum Beispiel mit Anhägner 100kmh/h auf der Autobahn und Autostrasse fahren. Was sich noch geändert hat erfährst du in diesem Artikel.
+meta_title: Neue Verkehrsregeln für die Autotheorie 2021
+meta_description: Du Lernst für den Führerschein? Diese Verkehrsregeln haben sich 2021 geändert.
 image: 486.jpg
 ---
 

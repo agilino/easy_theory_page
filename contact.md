@@ -2,6 +2,8 @@
 layout: contact_page
 title: Kontakt
 description: Kontaktformular EasyTheory
+meta_title: Kontaktformular Theorieprüfung App | EasyTheory
+meta_description: Hast Du Fragen zur Auto oder Motorrad Theorie oder Anmerkungen zu unserer Theorieprüfung App? Kontaktiere uns.
 ---
 
 Hast du Anmerkungen, Fragen, Lob oder Kritik an der EasyTheory App? Oder hast du einen inhaltlichen Fehler bei den Theoriefragen gefunden? Nutze einfach das unten stehende Formular um uns zu erreichen.

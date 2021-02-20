@@ -2,6 +2,8 @@
 layout: post
 title: Launch neue Webseite
 description: Wir freuen uns dich auf unserer neuen Webseite begrüssen zu dürfen.
+meta_title: Neue Führerschein App für Auto und Motorrad
+meta_description: Auf unserer Webseite bekommst Du ein Einblick in unsere Theorieprüfung App.
 image: blog_pic_03.jpg
 ---
 

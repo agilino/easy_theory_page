@@ -1,5 +1,7 @@
 ---
-layout: default
-title: Home
-description: Die App mit inoffiziellen Fragen für die schweizer Theorie Prüfung Kat. A und B.
+layout: redirect
+meta_title: Lerne für die Theorieprüfung Auto & Motorrad | EasyTheory
+meta_description: Bestehe mit uns deine Auto oder Motorrad Prüfung. Lerne für die Fahrprüfung mit unserer Führerschein App.
+permalink: "/"
+redirect_to:  /auto-theorieprüfung-lernen.html
 ---

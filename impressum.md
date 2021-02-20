@@ -2,6 +2,8 @@
 layout: page
 title: Impressum
 description: Impressum Webseite und easytheory App
+meta_title: Impressum Führerschein App | EasyTheory
+meta_description: Impressum zu unserer Theorieprüfung App
 ---
 
 ## Datenschutzhinweis Website
