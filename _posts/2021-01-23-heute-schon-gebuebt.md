@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Heute schon geübt?
-description: Regelmässiges Üben hilft dir optimal auf die Prüfung vorzubereiten.
+description: Regelmässiges Üben hilft dir dich optimal auf die Auto Theorieprüfung vorzubereiten.
 meta_title: Heute schon Autotheorie gelernt?
-meta_description: Übe mit unserer Führerschein App EasyTheory jeden Tag ein bisschen.
+meta_description: Übe mit unserer Führerschein App EasyTheory für die Autothoerie jeden Tag ein bisschen.
 image: blog_pic_02.jpg
 ---
 
-Fällt es Dir schwer Dich zu motivieren? Probiere 10min lang Theoriefragen zu üben. Durch die Einfachheit der App, ausführliche Erklärungen, weiterführende Links und nicht zuletzt die spannenden Bilder lernst Du spielend für die Prüfung.
+Fällt es Dir schwer Dich zu motivieren? Es gibt da ein ganz einfachen Trick um den inneren Schweinehund zu besiegen. Vermutlich benutzt du dein Smartphone ohnehin um dich abzulenken. Es gibt viele Verlockungen: YouTube, Insta und Facebook oder einfach mal surfen. Doch du hast die Lösung in Form von unserer [iOS Autotheorie App](https://apps.apple.com/ch/app/easytheory/id1529844252#?platform=iphone) oder [Android Führerschein App](https://play.google.com/store/apps/details?id=com.easytheory) schon eigentlich in der Hand. Probiere 10min lang Theoriefragen zu üben. Durch die Einfachheit der App, ausführliche Erklärungen, weiterführende Links und nicht zuletzt die spannenden Bilder lernst Du spielend für die Prüfung.
+
+Da es ca 300 Fragen sind, von denen in der Prüfung nur 50 dran kommen, wirst du schon bald mit allen Verkehrssituationen vertraut sein. Dank der einfachheit der App, wirst du alle Fragen im Nullkommanix durchgearbeitet haben, da 2-3 Stunden ausreichen um alle Fragen beantwortet zu haben. Nach ein paar weiteren Stunden hast Du die Fragen schon einige male gesehen und hast dich mit ihnen vertraut gemacht. In 4-8 Stunden hast du so ein gutes Verständnis für die Verkehrstheorie. Nun kannst du einige male den Prüfungsmodus machen. Wir empfehlen, dass Du mindestens die Prüfung 5 mal im Simulator bestehst, bevor du in die echte Prüfung gehst. Es ist also durchaus möglich sich die Theorie in weniger als einer Woche oder sogar in wenigen Tagen anzueignen. Es kommen meistens keine überraschungen, du kannst auf dein Wissen als Fussgänger, Fahrradfahrer und Beifahrer aufbauen ;-).
+
+In der offiziellen Prüfung werden in einem von der [asa](https://asa.ch/dienstleistungen/theoriepruefung/) lizenzierten Katalog einzelne [Kompetenzen](https://asa.ch/wp-content/uploads/2020/05/Katalog_Handlungskompetenzen_KatB_Endversion_PDF.pdf) zu Vortitten, Verboten, Fahrmanövern, Fahrzeuglenker und Fahrzeug sowie der Verkehrsumwelt abgefragt. Wir haben in unserer Theorieprüfung App diese Aspekte in Form von prüfungsähnlichen Fragen berücksichtigt. Die [Asa veröffentlicht nur 80% der Fragen](https://asa.ch/dienstleistungen/theoriepruefung/lernmittel/). Um die Prüfung zu bestehen reicht es deshalb nicht einfach auswendig zu lernen. Dank unserer Theorie App für das Auto und Motorrad verstehst du den Sinn hinter den Antworten und brauchst das wissen bald als Lernfahrer auf der Strasse. Mit dem Lernfahrausweis wird es dann richtig spannend, den es geht in die Praxis. Viel Freude dabei wünscht dir EasyTheory.

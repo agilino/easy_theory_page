@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Neue Verkehrsregeln 2021
-description: Seit Anfang Januar 2021 haben sich einige Verkehrsregeln verändert, so darfst zum Beispiel mit Anhägner 100kmh/h auf der Autobahn und Autostrasse fahren. Was sich noch geändert hat erfährst du in diesem Artikel.
+title: Neue Verkehrsregeln 2021 für die Führerschein Theorie
+description: Seit Anfang Januar 2021 haben sich einige Verkehrsregeln verändert, so darfst zum Beispiel mit Anhägner 100kmh/h auf der Autobahn und Autostrasse fahren. Was sich noch geändert hat, dass du für die Theorieprüfung und vor allem im Verkehr wissen solltest, erfährst du in diesem Artikel. Unsere Autotheorie App ist bereits aktualisiert.
 meta_title: Neue Verkehrsregeln für die Autotheorie 2021
-meta_description: Du Lernst für den Führerschein? Diese Verkehrsregeln haben sich 2021 geändert.
+meta_description: Du lernst für die Führerscheinprüfung? Diese Verkehrsregeln haben sich 2021 geändert. Dies berücksichtigen wir in unserer Auto Theorie App.
 image: 486.jpg
 ---
 
-Das neue Jahr 2021 bring einige Veränderungen auch in der [Verkehrsregelnverordnung](https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/de#a4) mit sich. Auch wenn du schon die Theorie bestanden hast, lohnt sich trotzdem über die Änderungen Bescheid zu wissen. Dies sind im Wesentlichen folgende Punkte:
+Das neue Jahr 2021 bring einige Veränderungen auch in der [Verkehrsregelnverordnung](https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/de#a4) mit sich. Auch wenn du schon die Theorie bestanden hast, lohnt sich trotzdem über die Änderungen Bescheid zu wissen. Falls Du deine Theorieprüfung für das Auto oder Motorrad vor dir hast, empfehlen wir dir unsere [Android Theorieapp](https://play.google.com/store/apps/details?id=com.easytheory) oder [iOS Führerschein App](https://apps.apple.com/ch/app/easytheory/id1529844252#?platform=iphone). Die Änderungen betreffen im Wesentlichen folgende Punkte:
 
 * Kinder ab sieben Jahren auf Sitzplätzen mit Beckengurten brauchen keine Kinderrückhaltevorrichtung mehr.
 * Abschnitt zu Fahrweise bei Schnee, Eis und Regen wurde gestrichen. Du sollst ja stets innerhalb der überblickbaren Strecke halten, natürlich auch bei Schnee und Glätte.
@@ -22,4 +22,4 @@ Das neue Jahr 2021 bring einige Veränderungen auch in der [Verkehrsregelnverord
 * Blutspendefahrzeuge sind nun vom Sonntags- und Nachtfahrverbot ausgenommen.
 * Vom Sonntagsfahrverbot sind ebenfalls auch Veteranenfahrzeuge ausgenommen.
 
-Es gibt noch weitere Änderungen zu rückstrahlender Kleidung bei Strassenbauarbeiten oder zu Informationssystemen der Bewilligungsbehörden, diese sind für die meisten Autofahrer nicht weiter relevant. Wir empfehlen dir dich mit der [Verkehrsregelnverordnung](https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/de#a4) vertraut zu machen. Alle Prüfungsfragen basieren auf den offiziellen Verordnungen, daher lohnt sich ein Blick reinzuwerfen.
+Es gibt noch weitere Änderungen zu rückstrahlender Kleidung bei Strassenbauarbeiten oder zu Informationssystemen der Bewilligungsbehörden, diese sind für die meisten Autofahrer nicht weiter relevant. Wir empfehlen dir dich mit der [Verkehrsregelnverordnung](https://www.fedlex.admin.ch/eli/cc/1962/1364_1409_1420/de#a4) vertraut zu machen. In unserer Theorieprüfung App für das Auto und Motorrad verlinken wir bei den meisten Fragen auf entsprechende Gesetzestexte und geben auch spannende Links zu TCS und anderen Materialien. Alle Prüfungsfragen basieren auf den offiziellen Verordnungen, daher lohnt sich ein Blick reinzuwerfen.
