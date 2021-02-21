@@ -70,7 +70,7 @@
 	a {
 		@include vendor('transition', ('color #{_duration(transitions)} ease', 'border-bottom-color #{_duration(transitions)} ease'));
 		border-bottom: dotted 1px;
-		color: inherit;
+		color: _palette(accent1, fg-bold);
 		text-decoration: none;
 
 		&:hover {
@@ -221,7 +221,20 @@
 			text-align: center;
 		}
     }
+    section, article {
+		&.special p, ul {
+			text-align: left;
+		}
+    }
     
+    section, article {
+		div.content {
+            @include padding(2em, 4em);
+        }
+    }
+    
+
+
     article header div {
         margin: 0 auto;
         color: #00a3fc;
@@ -506,7 +519,7 @@
 
 		&.style1 {
 			color: _palette(accent2, bg);
-		}
+        }          
 
 		&.style2 {
 			color: _palette(accent3, bg);
@@ -1235,7 +1248,7 @@
 	}
 
 	.wrapper {
-		@include padding(6em, 0);
+		@include padding(2em, 0);
 
 		> .inner {
 			width: 60em;
@@ -1255,7 +1268,7 @@
 		}
 
 		&.style1 {
-			@include wrapper(accent1);
+			@include wrapper(accent7);
 		}
 
 		&.style2 {
@@ -1778,7 +1791,7 @@
 			font-size: 1.25em;
 
 			a {
-				color: _palette(fg-light);
+				color: _palette(accent1, fg-bold);
 
 				&:hover {
 					color: _palette(fg);
