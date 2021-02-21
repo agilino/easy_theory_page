@@ -20,11 +20,11 @@ facebook_url:
 github_url:
 gitlab_url:
 googleplus_url:
-instagram_url:
-linkedin_url:
+instagram_url: https://www.instagram.com/auto_theorie_lernen/
+linkedin_url: https://www.linkedin.com/showcase/autotheorie-lernen/
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url: https://twitter.com/ALernen
 
 # Build settings
 markdown: kramdown
