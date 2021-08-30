@@ -1,7 +1,7 @@
 # Site settings
 email: adam@furmanczuk.eu
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://wwww.easytheory.ch" # the base hostname & protocol for your site
+url: "https://www.easytheory.ch" # the base hostname & protocol for your site
 title: EasyTheory Theorieprüfung App Auto und Motorrad
 
 plugins:
