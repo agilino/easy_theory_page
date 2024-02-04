@@ -6,6 +6,7 @@ title: EasyTheory Theorieprüfung App Auto und Motorrad
 
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
