@@ -8,7 +8,7 @@ meta_description: Impressum zu unserer Theorieprüfung App
 
 ## Datenschutzhinweis Website
 
-Beim Besuchen der Webseite wird die IP Adresse des Besuchers geloggt. Diese Information wird nicht weiter ausgewertet. Der Autor der Webseite speichert keine Cookies. Telemetrische Daten werden weder ausgewertet noch an Drittanbieter weitergeleitet. 
+Beim Besuchen der Webseite wird die IP Adresse des Besuchers geloggt. Diese Information wird nicht weiter ausgewertet. Der Autor der Webseite speichert keine Cookies. Telemetrische Daten werden weder ausgewertet noch an Drittanbieter weitergeleitet.
 
 Auf der Webseite befindet sich ein Kontaktformular. Die dort übermittelten Daten werden zwecks Beantwortung der Anfrage verarbeitet und anschliessend wieder gelöscht.
 
@@ -16,24 +16,23 @@ Auf der Webseite befindet sich ein Kontaktformular. Die dort übermittelten Date
 
 Jeder Betroffene hat nach der europäischen Datenschutzgrundverordnung (DSGVO) das Recht
 
-* auf Auskunft nach Artikel 15 DSGVO
-* das Recht auf Berichtigung nach Artikel 16 DSGVO
-* das Recht auf Löschung nach Artikel 17 DSGVO
-* das Recht auf Einschränkung der Verarbeitung nach Artikel 18 DSGVO
-* das Recht auf Widerspruch aus Artikel 21 DSGVO 
-* das Recht auf Datenübertragbarkeit aus Artikel 20 DSGVO
+- auf Auskunft nach Artikel 15 DSGVO
+- das Recht auf Berichtigung nach Artikel 16 DSGVO
+- das Recht auf Löschung nach Artikel 17 DSGVO
+- das Recht auf Einschränkung der Verarbeitung nach Artikel 18 DSGVO
+- das Recht auf Widerspruch aus Artikel 21 DSGVO
+- das Recht auf Datenübertragbarkeit aus Artikel 20 DSGVO
 
 ## Impressum
 
 Verantwortlich für den Inhalt dieser Webseite und den Inhalt der easytheory App ist
 
 Adam Furmanczuk  
-Moosburgstrasse 17  
-8307 Effretikon  
+Postfach 80  
+7006 Chur  
 Schweiz
 
 Sie können uns eine Nachricht über unser [Kontaktformular]({{ site.baseurl }}{% link contact.md %}) senden.
-
 
 ### Haftungsausschluss
 
@@ -52,5 +51,7 @@ Verweise und Links auf Webseiten Dritter liegen ausserhalb unseres Verantwortung
 Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf dieser Website, gehören ausschliesslich <strong>Adam Furmanczuk</strong> oder den speziell genannten Rechteinhabern. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung des Urheberrechtsträgers im Voraus einzuholen.
 
 <!--ACHTUNG: Wenn Sie die Quelle ohne Erlaubnis von SwissAnwalt entfernen, dann begehen Sie eine Urheberrechtsverletzung welche in jedem Fall geahndet wird.-->
+
 Quelle: [SwissAnwalt](https://www.swissanwalt.ch)
+
 <!--Bitte beachten Sie die AGB von SwissAnwalt betreffend allfällig anfallenden Kosten bei Weglassen der Quelle!-->
